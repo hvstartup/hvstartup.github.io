@@ -128,7 +128,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 66)
+  jekyll
   json
+  kramdown
 
 BUNDLED WITH
    1.11.2

@@ -1,0 +1,25 @@
+{
+  "name": "hvstartup.github.io",
+  "version": "1.0.0",
+  "description": "Static GitHub Pages placeholder for an hvstartup website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hvstartup/hvstartup.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hvstartup/hvstartup.github.io/issues"
+  },
+  "homepage": "https://github.com/hvstartup/hvstartup.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "lodash": "^4.6.1"
+  }
+}
