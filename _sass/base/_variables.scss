@@ -3,8 +3,8 @@ $medium-screen: 600px;
 $large-screen: 900px;
 
 // Typography
-$base-font-family: $font-stack-helvetica;
-$heading-font-family: $font-stack-garamond;
+$base-font-family: $hvs-body-font;
+$heading-font-family: $hvs-header-font;
 
 // Font Sizes
 $base-font-size: 1em;
@@ -26,7 +26,7 @@ $medium-gray: #999;
 $light-gray: #ddd;
 
 // Font Colors
-$base-font-color: $dark-gray;
+$base-font-color: $text-color;
 $action-color: $blue;
 
 // Border
